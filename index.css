@@ -1,0 +1,180 @@
+*{
+    font-family: 'Courgette', cursive;
+    margin:0px;
+    padding:0px;
+}
+/*home(index) page*/
+div.backgroundPhoto{
+    background: url(BackgroundPhoto.jpg);
+    background-repeat:no-repeat;
+    width: 100%;
+    background-position: 20%;
+    height: auto;
+}
+div.nameOfCompany{
+    margin:auto;
+    width:80%;
+    height: auto;
+    border-top-width: 146px;
+    background-color: #ffffff;
+    opacity: 0.6;
+    padding-left:30px;
+}
+div.nameOfCompany {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 950%;
+    text-align: center;
+}
+div.nameOfCompany p2{
+    font-size: 750%;  
+    padding-left: 25%;
+}
+
+div.a1{
+    background-color: #E5E4E2;
+    background-position: center;
+    width: 80%;
+    height: 100%;
+    margin-left: 10%;
+}
+    /*for pictures*/
+
+.-mt2 {
+    padding-top: 2em !important;
+}
+.row {
+    margin-left: -15px;
+    margin-right: -15px;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+}
+img{
+    margin-right: 20;
+}
+.col {
+    -ms-flex-preferred-size: 0;
+    flex-basis: 0;
+    -ms-flex-positive: 1;
+    max-width: 100%;
+    padding-left: 15px;
+    padding-right: 15px;
+    flex-grow: 1;
+    min-width: 12em;
+    display: flex;
+    flex-direction: column;
+}
+.-h100 {
+    height: 100%;
+    margin-left: 40px;
+}
+.-pr {
+    position: relative;
+}
+*, *:after, *:before {
+    box-sizing: border-box /* Telerik Academy*/ ;
+}
+
+/*about us page*/
+div.backgroundInfo{
+    background: url(AboutUsPhoto.jpg);
+    background-position: center;
+    background-repeat:no-repeat;
+    align-items: center;
+    width: 90%;
+    height: 80%;
+    display: flex;
+    position: static;
+    margin-top: 0%;
+    margin-left: 5%;
+}
+div.transbox {
+    width: 70%;
+    height: 45%;
+    margin: 30%;
+    background-color: #ffffff;
+    opacity: 0.6;
+}
+div.transbox p {
+    margin: 5%;
+    text-align: center;
+    font-size: 200%;
+    font-weight: bold;
+    color: #000000;
+}
+
+/*Contact us page*/
+.package{
+    margin-left: 40%;
+    margin-top: 10%;
+}
+.image{
+    width: 10%;
+    height: 10%;
+}
+.email{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 300%;
+    padding-bottom: 10%;
+}
+
+/*Menu slide*/
+.menu{
+    width:100%;
+    text-align:center;
+    box-shadow:0px 0px 20px rgb(30, 78, 30);
+    border:black;
+}
+.title-site-container{
+    text-align:center;
+    padding:20px;
+}
+.title{
+    font-size:250%;
+    color:black;
+    margin:1px;
+    font-weight:lighter;
+}
+.title:hover{
+    cursor:pointer;
+}
+.choosing-menu{
+    text-align:center;
+    padding:10px;
+    vertical-align: middle;
+}
+.item{
+    padding-left:4px;
+    padding-right:4px;
+    font-size:120%;
+    color:black;
+    text-decoration: none;
+    vertical-align: middle;
+}
+.home-image{
+    width:2%;
+    vertical-align: middle;
+    padding-right:3px;
+}
+.cart-image{
+    width:2%;
+    vertical-align: middle;
+    padding-right:3px;
+}
+.information-image{
+    width:2%;
+    vertical-align: middle;
+    padding-right:3px;
+}
+.conection-image{
+    width:2%;
+    vertical-align: middle;
+    padding-right:3px;
+}
+.item-mini-container{
+    padding-right:5px;
+    padding-left:5px;
+}
