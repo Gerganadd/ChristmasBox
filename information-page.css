@@ -1,0 +1,110 @@
+*{
+    font-family: 'Courgette', cursive;
+    margin:0px;
+    padding:0px;
+}
+/*Menu slide*/
+.menu{
+    width:100%;
+    text-align:center;
+    box-shadow:0px 0px 20px rgb(30, 78, 30);
+    border:black;
+}
+.title-site-container{
+    text-align:center;
+    padding:20px;
+}
+.title{
+    font-size:250%;
+    color:black;
+    margin:1px;
+    font-weight:lighter;
+}
+.title:hover{
+    cursor:pointer;
+}
+.choosing-menu{
+    text-align:center;
+    padding:10px;
+    vertical-align: middle;
+}
+.item{
+    padding-left:4px;
+    padding-right:4px;
+    font-size:120%;
+    color:black;
+    text-decoration: none;
+    vertical-align: middle;
+}
+.home-image{
+    width:2%;
+    vertical-align: middle;
+    padding-right:3px;
+}
+.cart-image{
+    width:2%;
+    vertical-align: middle;
+    padding-right:3px;
+}
+.information-image{
+    width:2%;
+    vertical-align: middle;
+    padding-right:3px;
+}
+.conection-image{
+    width:2%;
+    vertical-align: middle;
+    padding-right:3px;
+}
+.item-mini-container{
+    padding-right:5px;
+    padding-left:5px;
+}
+.product-image{
+    width:40%;
+    padding-left: 30%;
+}
+.Product-name{
+    text-align:center; 
+    font-size:40px;
+    margin:40px;
+}
+.column-inf-all-products{
+    width:33%;
+    padding:20px;
+}
+.column-inf{
+    width:50%;
+    padding:20px;
+}
+.text-inf{
+    line-height: 1.6;
+    font-size: 20px;
+}
+.button-container{
+    margin:20px;
+    text-align: center;
+}
+.button-shopping{
+    cursor: pointer;;
+    font-size:20px;
+    padding:10px;
+    text-align:center;
+    border-radius:10px;
+    background-color: white;
+    border-color:darkgreen;
+    box-shadow: 0px 0px 8px ;
+    transition: 1s;
+}
+.button-shopping:hover{
+    font-size:20px;
+    transition: 1s;
+    cursor: pointer;;
+    padding:10px;
+    text-align:center;
+    border-radius:10px;
+    color:white;
+    background-color: darkgreen;
+    border-color:darkgreen;
+    box-shadow: 0px 0px 8px ;
+}
