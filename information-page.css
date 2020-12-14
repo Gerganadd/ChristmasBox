@@ -61,16 +61,16 @@
     padding-left:5px;
 }
 .product-image{
-    width:40%;
-    padding-left: 30%;
+    width:50%;
+    padding-left: 25%;
 }
 .Product-name{
     text-align:center; 
     font-size:40px;
-    margin:40px;
+    margin-bottom: 1%;
 }
 .column-inf-all-products{
-    width:33%;
+    width:33.3%;
     padding:20px;
 }
 .column-inf{
@@ -107,4 +107,20 @@
     background-color: darkgreen;
     border-color:darkgreen;
     box-shadow: 0px 0px 8px ;
+}
+div.a1{
+    background-color: #E5E4E2;
+    background-position: center;
+    width: 80%;
+    height: 100%;
+    margin-left: 10%;
+    padding-bottom: 7%;
+}
+div.a-allProducts{
+    background-color: #E5E4E2;
+    background-position: center;
+    width: 80%;
+    height: 100%;
+    margin-left: 10%;
+    padding-top: 1%;
 }
