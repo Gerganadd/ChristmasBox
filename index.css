@@ -81,27 +81,3 @@ img{
     box-sizing: border-box ;
 }
 
-/*Contact us page*/
-.package{
-    margin-left: 35%;
-    padding-top: 4%;
-}
-.image{
-    width: 10%;
-    height: 10%;
-}
-.email{
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-style: italic;
-    font-size: 350%;
-    padding-bottom: 10%;
-}
-div.a-contactUs{
-    background-color: #E5E4E2;
-    background-position: center;
-    width: 80%;
-    height: 100%;
-    padding-top: 8.8%;
-    padding-bottom: 13%;
-    margin-left: 10%;
-}
