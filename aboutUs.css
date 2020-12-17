@@ -1,0 +1,28 @@
+div.backgroundInfo{
+    background: url(pictures/about\ our\ product/background.jpg);
+    background-position: center;
+    background-repeat:no-repeat;
+    align-items: center;
+    width: 90%;
+    height: 81.3%;
+    display: flex;
+    position: static;
+    margin-top: 0%;
+    margin-left: 5%;
+}
+div.transbox {
+    width: 80%;
+    height: 75%;
+    margin: 10%;
+    background-color: #ffffff;
+    opacity: 0.6;
+}
+div.transbox p {
+    margin-top: 1.5%;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: center;
+    font-size: 200%;
+    font-weight: bold;
+    color: #000000;
+}
